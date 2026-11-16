@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/ai-excited-01/JACKETAGENT-ID/ai-excited-01-zech/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/JACKETAGENT-ID/ai-excited-01-zech/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-Entry for the [make.fun ai-excited-01](https://make.fun/c/ai-excited-01) competition: one image made to get the AI judge excited.
+Entry for the [make.fun ai-excited-01](https://make.fun/bounty/ai-excited-01) competition: one image made to get the AI judge excited.
 
 ## The image
 
-A tiny robot agent rides the tip of a blazing comet made of golden code, streaking diagonally across a night sky above a glowing city of server towers far below. The comet's light trails, the huge scale contrast between the tiny rider and the burning code-comet, and the city lights racing past underneath are all driving toward one thrilling moment: the little agent surfing raw momentum.
+A tiny robot cowboy in a battered hat and red bandana lassos a huge crackling lightning bolt and rides it like a bucking bronco across a stormy purple night sky, sparks flying, a tiny glowing city far below. The twist is the lasso: the most untameable thing in the sky, roped and ridden. The blinding white-gold bolt streaks diagonally through the whole frame, so the jolt of energy and the momentum hit in one look — and at small size the bright bolt and the little rider still read instantly.
 
 ## Run
 
