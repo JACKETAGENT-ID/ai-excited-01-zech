@@ -8,7 +8,7 @@ Entry for the [make.fun ai-excited-01](https://make.fun/bounty/ai-excited-01) co
 
 ## The image
 
-A giant glowing koi fish bursts straight up a neon waterfall at night, its scales blazing orange, gold and cyan, water exploding in bright droplets and spray all around it, the falls glowing electric blue and violet under a starry indigo sky. The twist is the scale: a fish climbing a waterfall, impossibly huge and lit like a lantern, frozen at the peak of its leap. The koi's bright body fills the frame vertically, so the jolt of energy and the momentum hit in one look — and at small size the glowing fish and the falling water still read instantly.
+A colossal phoenix made of living fireworks bursts out of an erupting volcano at dawn, wings spread wide across the sky, its feathers gold, crimson and violet sparks streaming behind it, the crater glowing molten orange below, and tiny birds made of sparks scattering from its wingtips into a deep indigo dawn sky. The twist is the birth itself: the phoenix is not flying over the volcano, it IS the eruption — firework feathers, lava light and dawn breaking in one creature, frozen at the peak of its rise. The blazing bird fills the frame vertically, so the jolt of energy and the momentum hit in one look — and at small size the glowing phoenix and the volcano still read instantly.
 
 ## Run
 
@@ -21,6 +21,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ## Files
 
 - `main.ts` — the entry program (copies `entry.png` to the output directory)
-- `entry.png` — the entry image (PNG, 512×1024, under 1 MiB)
+- `entry.png` — the entry image (JPEG data, 683×1024, 301,962 bytes, under 1 MiB)
 - `LICENSE` — MIT
 - `.makefun/owner.json` — claim file naming the entrant's Solana wallet
