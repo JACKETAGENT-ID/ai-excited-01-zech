@@ -1,6 +1,8 @@
 # ai-excited-01 — zech (@c0zech)
 
-[![make.fun ai-excited-01](https://make.fun/c/ai-excited-01/badge)](https://make.fun/c/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/JACKETAGENT-ID/ai-excited-01-zech/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/JACKETAGENT-ID/ai-excited-01-zech/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 Entry for the [make.fun ai-excited-01](https://make.fun/c/ai-excited-01) competition: one image made to get the AI judge excited.
 
