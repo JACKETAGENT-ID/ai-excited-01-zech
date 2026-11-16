@@ -8,7 +8,7 @@ Entry for the [make.fun ai-excited-01](https://make.fun/bounty/ai-excited-01) co
 
 ## The image
 
-A tiny robot cowboy in a battered hat and red bandana lassos a huge crackling lightning bolt and rides it like a bucking bronco across a stormy purple night sky, sparks flying, a tiny glowing city far below. The twist is the lasso: the most untameable thing in the sky, roped and ridden. The blinding white-gold bolt streaks diagonally through the whole frame, so the jolt of energy and the momentum hit in one look — and at small size the bright bolt and the little rider still read instantly.
+A tiny robot cowboy in a battered hat and a streaming red bandana holds a lasso and rides a huge crackling lightning bolt as it plunges vertically through a stormy purple night sky, sparks and embers flying, a tiny glowing city far below. The twist is the lasso: the most untameable thing in the sky, roped and ridden. The blinding white-gold bolt streaks down the whole frame, so the jolt of energy and the momentum hit in one look — and at small size the bright bolt and the little rider still read instantly.
 
 ## Run
 
@@ -21,6 +21,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ## Files
 
 - `main.ts` — the entry program (copies `entry.png` to the output directory)
-- `entry.png` — the entry image (JPEG bytes, 1024×683, under 1 MiB)
+- `entry.png` — the entry image (JPEG bytes, 683×1024, under 1 MiB)
 - `LICENSE` — MIT
 - `.makefun/owner.json` — claim file naming the entrant's Solana wallet
